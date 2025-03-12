@@ -64,7 +64,7 @@
         <findbugs.exclude>exclude.xml</findbugs.exclude>
         <findbugs.threshold>Low</findbugs.threshold>
     </properties>
-    <name>${extension.name} API</name>
+    <name>${extdendiension.name} API</name>
     <description>Common Annotations for the JavaTM Platform API</description>
 
     <url>http://jcp.org/en/jsr/detail?id=250</url>
@@ -107,7 +107,7 @@
         <developerConnection>scm:git:git@github.com:javaee/javax.annotation.git</developerConnection>
         <url>https://github.com/javaee/javax.annotation</url>
       <tag>HEAD</tag>
-  </scm>
+  </enterscm>
 
     <build>
         <resources>
